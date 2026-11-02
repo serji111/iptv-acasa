@@ -1,0 +1,116 @@
+category,channel,candidate_streams,status
+Generaliste,Moldova 1,1,FOUND_UNTESTED
+Generaliste,Moldova 2,1,FOUND_UNTESTED
+Generaliste,Jurnal TV,0,NOT_FOUND
+Generaliste,TV8,5,FOUND_UNTESTED
+Generaliste,PRO TV Chișinău,1,FOUND_UNTESTED
+Generaliste,TVR Moldova,2,FOUND_UNTESTED
+Generaliste,One TV,3,FOUND_UNTESTED
+Generaliste,Star TV,2,FOUND_UNTESTED
+Generaliste,Premiera TV,0,NOT_FOUND
+Generaliste,Next TV,1,FOUND_UNTESTED
+Generaliste,Exclusiv TV,1,FOUND_UNTESTED
+Generaliste,Vocea Basarabiei,1,FOUND_UNTESTED
+Generaliste,Prima TV Moldova,0,NOT_FOUND
+Generaliste,Realitatea TV,1,FOUND_UNTESTED
+Generaliste,TV9,3,FOUND_UNTESTED
+Generaliste,Kanal D,3,FOUND_UNTESTED
+Generaliste,TNT International,2,FOUND_UNTESTED
+Generaliste,STS International,1,FOUND_UNTESTED
+Generaliste,Pyatnitsa International,1,FOUND_UNTESTED
+Generaliste,5 International,0,NOT_FOUND
+Generaliste,Domashniy International,0,NOT_FOUND
+Generaliste,TV3 International,0,NOT_FOUND
+Generaliste,TNT4 International,1,FOUND_UNTESTED
+Generaliste,Peretz International,1,FOUND_UNTESTED
+Generaliste,4 TV International,0,NOT_FOUND
+Generaliste,TVC 21,0,NOT_FOUND
+Generaliste,N4,0,NOT_FOUND
+Generaliste,Agro TV Moldova,0,NOT_FOUND
+Generaliste,Cinema 1,0,NOT_FOUND
+Generaliste,7TV Moldova,0,NOT_FOUND
+Generaliste,Global 24,0,NOT_FOUND
+Generaliste,Privesc.Eu,1,FOUND_UNTESTED
+Generaliste,Drochia TV,0,NOT_FOUND
+Generaliste,Canal Regional,0,NOT_FOUND
+Generaliste,Elita TV,0,NOT_FOUND
+Generaliste,Axial TV,0,NOT_FOUND
+Generaliste,Studio-L,0,NOT_FOUND
+Generaliste,GRT,0,NOT_FOUND
+Generaliste,SOR TV,1,FOUND_UNTESTED
+Generaliste,NTS,1,FOUND_UNTESTED
+Generaliste,BNT4,1,FOUND_UNTESTED
+Generaliste,Media TV,1,FOUND_UNTESTED
+Filme,viju TV1000,5,FOUND_UNTESTED
+Filme,viju TV1000 Action,0,NOT_FOUND
+Filme,viju TV1000 Russkoe,0,NOT_FOUND
+Filme,FilmUA Drama,0,NOT_FOUND
+Filme,viju+ Serial,1,FOUND_UNTESTED
+Filme,BOLT,1,FOUND_UNTESTED
+Filme,Kino TV,2,FOUND_UNTESTED
+Filme,Comedy Central,16,FOUND_UNTESTED
+Filme,Indiya TV,0,NOT_FOUND
+Filme,Cinemaraton Moldova,0,NOT_FOUND
+Filme,Kinokomediya,0,NOT_FOUND
+Filme,Kinopremyera,2,FOUND_UNTESTED
+Filme,Rodnoe Kino,1,FOUND_UNTESTED
+Filme,Kinohit,1,FOUND_UNTESTED
+Filme,Kinomix,1,FOUND_UNTESTED
+Filme,ACASA,1,FOUND_UNTESTED
+Filme,Acasa Gold,1,FOUND_UNTESTED
+Filme,Mosfilm,1,FOUND_UNTESTED
+Filme,viju+ Comedy,1,FOUND_UNTESTED
+Filme,viju+ Megahit,1,FOUND_UNTESTED
+Filme,viju+ Premiere,1,FOUND_UNTESTED
+Filme,Kinoseriya,1,FOUND_UNTESTED
+Filme,Kinosemya,0,NOT_FOUND
+Filme,Muzhskoe Kino,1,FOUND_UNTESTED
+Filme,Kinoman,0,NOT_FOUND
+Filme,Star Cinema,1,FOUND_UNTESTED
+Filme,Star Family,1,FOUND_UNTESTED
+Filme,Kinosvidanie,1,FOUND_UNTESTED
+Filme,Nashe Novoe Kino,1,FOUND_UNTESTED
+Filme,Cinema,2,FOUND_UNTESTED
+Filme,Black,2,FOUND_UNTESTED
+Filme,Red,3,FOUND_UNTESTED
+Filme,Sci-Fi,3,FOUND_UNTESTED
+Documentare,Discovery Channel,12,FOUND_UNTESTED
+Documentare,Animal Planet,9,FOUND_UNTESTED
+Documentare,Investigation Discovery,6,FOUND_UNTESTED
+Documentare,viju Explore,1,FOUND_UNTESTED
+Documentare,viju History,1,FOUND_UNTESTED
+Documentare,viju Nature,1,FOUND_UNTESTED
+Documentare,viju+ Planet,1,FOUND_UNTESTED
+Documentare,Da Vinci,2,FOUND_UNTESTED
+Documentare,HDL,0,NOT_FOUND
+Documentare,Perviy Kosmicheskiy,0,NOT_FOUND
+Documentare,V mire zhivotnyh,0,NOT_FOUND
+Sport,Eurosport 1,6,FOUND_UNTESTED
+Sport,Eurosport 2,5,FOUND_UNTESTED
+Sport,Setanta Sports,7,FOUND_UNTESTED
+Sport,Setanta Sports 1,0,NOT_FOUND
+Sport,Setanta Sports 2,0,NOT_FOUND
+Sport,viju+ Sport,2,FOUND_UNTESTED
+Sport,Match Planeta,1,FOUND_UNTESTED
+Sport,MMA-TV,2,FOUND_UNTESTED
+Sport,Realitatea Sportiva,1,FOUND_UNTESTED
+Sport,WE SPORT TV,0,NOT_FOUND
+Muzica,MTV 80s,0,NOT_FOUND
+Muzica,MTV 90s,0,NOT_FOUND
+Muzica,MTV Live,1,FOUND_UNTESTED
+Muzica,Europa Plus TV,2,FOUND_UNTESTED
+Muzica,TNT Music,0,NOT_FOUND
+Muzica,Shanson TV,1,FOUND_UNTESTED
+Muzica,Noroc TV,1,FOUND_UNTESTED
+Muzica,Busuioc TV,0,NOT_FOUND
+Muzica,Taraf TV,1,FOUND_UNTESTED
+Muzica,Etno TV,1,FOUND_UNTESTED
+Muzica,Favorit TV,1,FOUND_UNTESTED
+Muzica,UTV,5,FOUND_UNTESTED
+Muzica,HIT FM TV,0,NOT_FOUND
+Muzica,Party Mix,1,FOUND_UNTESTED
+Muzica,Disco Mix,1,FOUND_UNTESTED
+Copii,Cartoon Network,15,FOUND_UNTESTED
+Copii,Nickelodeon,28,FOUND_UNTESTED
+Copii,Mult,2,FOUND_UNTESTED
+Copii,Da Vinci Kids,0,NOT_FOUND
