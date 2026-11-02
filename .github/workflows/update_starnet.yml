@@ -1,0 +1,35 @@
+
+name: Actualizare StarNet V2
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '37 5 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descarca proiectul
+        uses: actions/checkout@v4
+
+      - name: Instaleaza Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Genereaza lista StarNet
+        run: python OTTPlayer_RU_RO_MD/build_starnet.py
+
+      - name: Salveaza rezultatele
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add OTTPlayer_RU_RO_MD/
+          if ! git diff --cached --quiet; then
+            git commit -m "Actualizare StarNet V2"
+            git push
+          fi
