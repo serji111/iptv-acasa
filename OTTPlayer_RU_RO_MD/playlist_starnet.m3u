@@ -99,10 +99,6 @@ http://176.118.197.101/KinoTvHD/playlist.m3u8
 https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
 #EXTINF:-1 tvg-id="ComedyCentral.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Filme",Comedy Central (Italy) (720p)
 http://team-tv.co:81/comedy/index.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Filme",Comedy Central (Romania)
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
-https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.se@SE" tvg-logo="https://images.pluto.tv/channels/61c0989431084d0007eab12d/colorLogoPNG.png" group-title="Filme",Comedy Central (Sweden)
 https://jmp2.uk/plu-61c0b550e0d3a700072b6a2a.m3u8
 #EXTINF:-1 tvg-id="ComedyCentral.se@DK" tvg-logo="https://images.pluto.tv/channels/61c0989431084d0007eab12d/colorLogoPNG.png" group-title="Filme",Comedy Central (Sweden) DK (720p)
@@ -186,14 +182,16 @@ http://92.114.85.87:8003/play/a007/index.m3u8
 #EXTINF:-1 tvg-id="SciFi.rs@SD" tvg-logo="https://i.imgur.com/FPumwfg.png" group-title="Filme",Sci Fi (Serbia)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://webtvstream.bhtelecom.ba/sci-fi.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Documentare",Discovery Channel (Bulgaria)
+http://213.91.179.28:8000/play/a044
 #EXTINF:-1 tvg-id="DiscoveryChannel.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Discovery_Channel_2019_symbol.svg/revision/latest?cb=20210804150956" group-title="Documentare",Discovery Channel (Czech Republic)
 http://88.212.15.50/live/test_discovery_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Documentare",Discovery Channel (Hungary)
 http://88.212.7.14/live/discovery_hungary/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="Documentare",Discovery Channel (India) (720p)
 https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" group-title="Documentare",Discovery Channel (India) HD (720p)
-https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540" group-title="Documentare",Discovery Channel (India) HD (1080p)
+http://103.135.253.32:8080/DISCOVERY/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Documentare",Discovery Channel (Italy) (1080p)
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png" group-title="Documentare",Discovery Channel (Netherlands) (360p)
@@ -259,6 +257,8 @@ http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
 http://90.183.52.46:4000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Hungary" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sport",Eurosport 1 Hungary
 http://88.212.7.14/live/esp1_hun/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@Portugal" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sport",Eurosport 1 Portugal
+http://185.228.163.146:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Russia" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sport",Eurosport 1 Russia (1080p)
 https://s7.iptv-24.net/1439/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Spain" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sport",Eurosport 1 Spain (576p)
@@ -271,6 +271,8 @@ http://57.128.210.196:8080/264/index.m3u8
 http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Hungary" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sport",Eurosport 2 Hungary
 http://88.212.7.14/live/esp2_hun/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr@Portugal" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sport",Eurosport 2 Portugal
+http://185.228.163.146:8000/play/a048/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Russia" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sport",Eurosport 2 Russia (1080p)
 https://s7.iptv-24.net/1452/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Spain" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sport",Eurosport 2 Spain (1080p)
@@ -344,6 +346,9 @@ https://hls02ns.antenaplay.ro/hls/party-mix-hd/index.m3u8
 https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK/images/LOGO_HD/image.png" group-title="Copii",Cartoon Network (India) (720p)
 https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork.it@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Copii",Cartoon Network (Italy)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.104/stream/122/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.pk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Copii",Cartoon Network (Pakistan)
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/live/87H/chunks.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Copii",Cartoon Network (Turkiye)
@@ -357,12 +362,16 @@ http://149.100.11.252:8000/play/a056/index.m3u8
 https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Copii",Cartoon Network CEE
 http://193.33.39.108:9007/play/a00l
+#EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Bulgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Copii",Cartoon Network CEE Bulgary
+http://213.91.179.28:8000/play/a08g
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@CzechRepublic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Copii",Cartoon Network CEE Czech Republic
 http://88.212.7.14/live/test_cartoon_network_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Poland" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Copii",Cartoon Network CEE Poland
 http://92.114.85.87:8007/play/a009
 #EXTINF:-1 tvg-id="CartoonNetworkCEE.uk@Ukraine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Copii",Cartoon Network CEE Ukraine (576p)
 http://45.132.87.69:8080/cartoon_network/index.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkHDPlus.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CARTOON_NETWORK_HDSYMPLUS/images/LOGO_HD/image.png" group-title="Copii",Cartoon Network HD+ (1080p)
+http://103.135.253.32:8080/CN-NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@SouthAtlanticHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Copii",Cartoon Network Latin America
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/cartoonnetwork.stream/chunks.m3u8
@@ -379,14 +388,9 @@ http://45.167.1.138:8000/play/a00w
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.bg@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Copii",Nickelodeon (Bulgaria)
 http://87.120.179.187:8000/play/a00x
-#EXTINF:-1 tvg-id="Nickelodeon.hr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" group-title="Copii",Nickelodeon (Croatia) (1080p)
-http://176.61.157.250/Nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.cz@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Copii",Nickelodeon (Czech Republic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_nickelodeon_hevc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.fr@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Copii",Nickelodeon (France) (504p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
-http://151.80.18.177:86/Nickelodeon_FR/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.de@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Copii",Nickelodeon (Germany)
 https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 #EXTINF:-1 tvg-id="Nickelodeon.hu@SD" tvg-logo="https://i.imgur.com/fXs8f6a.png" group-title="Copii",Nickelodeon (Hungary)
@@ -395,19 +399,14 @@ http://88.212.7.14/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NICK/images/LOGO_HD/image.png" group-title="Copii",Nickelodeon (India) (576p)
 http://103.185.24.134:3001/NICK/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.it@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Copii",Nickelodeon (Italy)
-https://hostemea1236.s.gy/italia/nikc/23/32/93/locos.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://185.227.34.104/stream/117/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.nl@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Copii",Nickelodeon (Netherlands)
 http://185.77.12.179:9981/stream/channelid/788918401?profile=pass
-#EXTINF:-1 tvg-id="Nickelodeon.pl@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Copii",Nickelodeon (Poland) (576i)
-http://92.114.85.87:8013/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" group-title="Copii",Nickelodeon (Romania)
 http://178.76.68.60:7442/64/mpegts
 #EXTINF:-1 tvg-id="Nickelodeon.ru@SD" tvg-logo="https://i.imgur.com/w8iE8dV.png" group-title="Copii",Nickelodeon (Russia) (576p)
 http://stream.mcquack.net/443/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.uk@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Copii",Nickelodeon (United Kingdom) (576p)
-http://tvsen7.aynascope.net/nicklodean/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us@East" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Copii",Nickelodeon (United States) (720p)
-http://198.58.104.90:8989/nickelodeon/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonCIS.kz@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Copii",Nickelodeon CIS (1080p)
 https://stream8.cinerama.uz/1500/playlist.m3u8
 #EXTINF:-1 tvg-id="NickelodeonClasico.us@LatAm" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG_1750157294622.png" group-title="Copii",Nickelodeon Clasico (720p)
@@ -418,12 +417,8 @@ https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
 https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
 #EXTINF:-1 tvg-id="Nickelodeonenespanol.us@SD" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="Copii",Nickelodeon en espanol
 https://jmp2.uk/plu-5d8d08395f39465da6fb3ec4.m3u8
-#EXTINF:-1 tvg-id="NickelodeonGlobal.uk@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" group-title="Copii",Nickelodeon Global (576p)
-http://103.151.60.162:2122/play/a017/index.m3u8?hls
-#EXTINF:-1 tvg-id="NickelodeonJunior.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" group-title="Copii",Nickelodeon Junior (1080p)
-http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
 #EXTINF:-1 tvg-id="NickelodeonLatinAmerica.us@Panregional" tvg-logo="https://i.imgur.com/E84jnP8.png" group-title="Copii",Nickelodeon Latin America (1080p)
-http://15.204.246.24:8080/NickHD/index.m3u8
+http://181.78.79.131:8000/play/a0qm
 #EXTINF:-1 tvg-id="NickelodeonPlutoTV.us@SD" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/colorLogoPNG.png" group-title="Copii",Nickelodeon Pluto TV (720p)
 https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
 #EXTINF:-1 tvg-id="NickelodeonTeen.us@BR" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png" group-title="Copii",Nickelodeon Teen (720p)
