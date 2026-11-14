@@ -29,6 +29,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/play
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF: group-title="Rusa"-1 tvg-id="555.ru@SD" tvg-logo="https://i.imgur.com/JQZkxeA.png",555 (720p)
 http://trk555.tv:8888/live
+#EXTINF: group-title="Rusa"-1 tvg-id="PlusTV.by@SD" tvg-logo="https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp",+TV (576p) [Geo-blocked]
+https://stream.plustv.by/plustv-web/plustv/playlist.m3u8
 #EXTINF: group-title="Rusa"-1 tvg-id="black.ru@SD" tvg-logo="https://i.imgur.com/Q4A6ci4.png",.black (576p)
 http://stream.mcquack.net/263/index.m3u8
 #EXTINF: group-title="Rusa"-1 tvg-id="red.ru@SD" tvg-logo="https://i.imgur.com/GET9Qut.png",.red (576p)
@@ -37,8 +39,6 @@ http://5.188.159.128:8070/RED/index.m3u8
 http://178.134.1.158:8081/red/index.m3u8
 #EXTINF: group-title="Rusa"-1 tvg-id="scifi.ru@SD" tvg-logo="https://i.imgur.com/nSSUHcg.png",.sci-fi (576p)
 http://stream.mcquack.net/180/index.m3u8
-#EXTINF: group-title="Rusa"-1 tvg-id="PlusTV.by@SD" tvg-logo="https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp",+TV (576p) [Geo-blocked]
-https://stream.plustv.by/plustv-web/plustv/playlist.m3u8
 #EXTINF: group-title="Rusa"-1 tvg-id="A1.ru@SD" tvg-logo="https://i.imgur.com/2pAHdAi.png",A1 (576p)
 http://31.148.48.15/A1/index.m3u8
 #EXTINF: group-title="Rusa"-1 tvg-id="A2.ru@SD" tvg-logo="https://i.imgur.com/NqHla2V.png",A2 (576p)
@@ -361,9 +361,8 @@ http://stream.mcquack.net/401/index.m3u8
 http://31.148.48.15/Feniks_plus_kino/index.m3u8
 #EXTINF: group-title="Rusa"-1 tvg-id="FILMBOXPlusOne.pl@UkraineBaltics" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png",FILMBOX+ One Ukraine & Baltics (450p) [Geo-blocked]
 https://s70378.cdn.ngenix.net/filmbox/index.m3u8
-#EXTINF: group-title="Rusa"-1 tvg-id="FilmUADrama.ua@SD" tvg-logo="https://i.imgur.com/Hnwsh5d.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3",FilmUADrama (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://88.99.215.227/FilmUADrama/index.m3u8
+#EXTINF: group-title="Rusa"-1 tvg-id="FilmUADrama.ua@SD" tvg-logo="https://i.imgur.com/Hnwsh5d.png",FilmUADrama
+https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
 #EXTINF: group-title="Rusa"-1 tvg-id="FirstMusicChannel.by@SD" tvg-logo="https://i.imgur.com/YdyFJrl.png",First Music Channel (1080p)
 http://rtmp.one.by:1300
 #EXTINF: group-title="Rusa"-1 tvg-id="FirstMusicChannelRussia.by@SD" tvg-logo="https://i.imgur.com/rEo7nR1.png",First Music Channel Russia (1080p)
@@ -1565,8 +1564,6 @@ http://novapress.ro:2022/live/nova/playlist.m3u8
 https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 #EXTINF: group-title="Romana"-1 tvg-id="OrizontTV.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8b/Orizont_TV.svg/revision/latest/scale-to-width-down/1000?cb=20241219232954",Orizont TV (576i)
 https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
-#EXTINF: group-title="Romana"-1 tvg-id="Prima4K.ro@UHD" tvg-logo="https://i.imgur.com/fOFgdHj.png",Prima 4K (2160p)
-http://92.180.26.103/stream/80/index.m3u8
 #EXTINF: group-title="Romana"-1 tvg-id="PrimaNews.ro@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Prima_News_logo_2022.svg/1280px-Prima_News_logo_2022.svg.png",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
 #EXTINF: group-title="Romana"-1 tvg-id="PrimaTV.ro@SD" tvg-logo="https://i.imgur.com/p2umWAT.png",Prima TV (Romania)
