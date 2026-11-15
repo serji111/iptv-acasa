@@ -16,7 +16,7 @@ Generaliste,Realitatea TV,1,FOUND_UNTESTED
 Generaliste,TV9,2,FOUND_UNTESTED
 Generaliste,Kanal D,3,FOUND_UNTESTED
 Generaliste,TNT International,2,FOUND_UNTESTED
-Generaliste,STS International,1,FOUND_UNTESTED
+Generaliste,STS International,0,NOT_FOUND
 Generaliste,Pyatnitsa International,1,FOUND_UNTESTED
 Generaliste,5 International,0,NOT_FOUND
 Generaliste,Domashniy International,0,NOT_FOUND
@@ -48,11 +48,11 @@ Filme,FilmUA Drama,0,NOT_FOUND
 Filme,viju+ Serial,1,FOUND_UNTESTED
 Filme,BOLT,1,FOUND_UNTESTED
 Filme,Kino TV,2,FOUND_UNTESTED
-Filme,Comedy Central,15,FOUND_UNTESTED
+Filme,Comedy Central,16,FOUND_UNTESTED
 Filme,Indiya TV,0,NOT_FOUND
 Filme,Cinemaraton Moldova,0,NOT_FOUND
 Filme,Kinokomediya,0,NOT_FOUND
-Filme,Kinopremyera,2,FOUND_UNTESTED
+Filme,Kinopremyera,1,FOUND_UNTESTED
 Filme,Rodnoe Kino,1,FOUND_UNTESTED
 Filme,Kinohit,1,FOUND_UNTESTED
 Filme,Kinomix,1,FOUND_UNTESTED
@@ -74,7 +74,7 @@ Filme,Cinema,2,FOUND_UNTESTED
 Filme,Black,2,FOUND_UNTESTED
 Filme,Red,3,FOUND_UNTESTED
 Filme,Sci-Fi,3,FOUND_UNTESTED
-Documentare,Discovery Channel,14,FOUND_UNTESTED
+Documentare,Discovery Channel,15,FOUND_UNTESTED
 Documentare,Animal Planet,8,FOUND_UNTESTED
 Documentare,Investigation Discovery,6,FOUND_UNTESTED
 Documentare,viju Explore,1,FOUND_UNTESTED
@@ -85,8 +85,8 @@ Documentare,Da Vinci,2,FOUND_UNTESTED
 Documentare,HDL,0,NOT_FOUND
 Documentare,Perviy Kosmicheskiy,0,NOT_FOUND
 Documentare,V mire zhivotnyh,0,NOT_FOUND
-Sport,Eurosport 1,13,FOUND_UNTESTED
-Sport,Eurosport 2,11,FOUND_UNTESTED
+Sport,Eurosport 1,14,FOUND_UNTESTED
+Sport,Eurosport 2,13,FOUND_UNTESTED
 Sport,Setanta Sports,6,FOUND_UNTESTED
 Sport,Setanta Sports 1,0,NOT_FOUND
 Sport,Setanta Sports 2,0,NOT_FOUND
@@ -111,6 +111,6 @@ Muzica,HIT FM TV,0,NOT_FOUND
 Muzica,Party Mix,1,FOUND_UNTESTED
 Muzica,Disco Mix,1,FOUND_UNTESTED
 Copii,Cartoon Network,20,FOUND_UNTESTED
-Copii,Nickelodeon,25,FOUND_UNTESTED
+Copii,Nickelodeon,29,FOUND_UNTESTED
 Copii,Mult,2,FOUND_UNTESTED
 Copii,Da Vinci Kids,0,NOT_FOUND
