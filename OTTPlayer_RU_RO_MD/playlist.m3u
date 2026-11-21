@@ -29,8 +29,6 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/play
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF: group-title="Rusa"-1 tvg-id="555.ru@SD" tvg-logo="https://i.imgur.com/JQZkxeA.png",555 (720p)
 http://trk555.tv:8888/live
-#EXTINF: group-title="Rusa"-1 tvg-id="PlusTV.by@SD" tvg-logo="https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp",+TV (576p) [Geo-blocked]
-https://stream.plustv.by/plustv-web/plustv/playlist.m3u8
 #EXTINF: group-title="Rusa"-1 tvg-id="black.ru@SD" tvg-logo="https://i.imgur.com/Q4A6ci4.png",.black (576p)
 http://116.90.120.149:8000/play/a0s4/index.m3u8
 #EXTINF: group-title="Rusa"-1 tvg-id="black.ru@HD" tvg-logo="https://i.imgur.com/Q4A6ci4.png",.black HD (1080p)
@@ -41,6 +39,8 @@ http://5.188.159.128:8070/RED/index.m3u8
 http://178.134.1.158:8081/red/index.m3u8
 #EXTINF: group-title="Rusa"-1 tvg-id="scifi.ru@SD" tvg-logo="https://i.imgur.com/nSSUHcg.png",.sci-fi (576p)
 http://116.90.120.149:8000/play/a0ao/index.m3u8
+#EXTINF: group-title="Rusa"-1 tvg-id="PlusTV.by@SD" tvg-logo="https://static.tildacdn.biz/tild6366-6336-4230-b562-656138633562/___TV-___188-76.webp",+TV (576p) [Geo-blocked]
+https://stream.plustv.by/plustv-web/plustv/playlist.m3u8
 #EXTINF: group-title="Rusa"-1 tvg-id="A1.ru@SD" tvg-logo="https://i.imgur.com/2pAHdAi.png",A1 (576p)
 http://31.148.48.15/A1/index.m3u8
 #EXTINF: group-title="Rusa"-1 tvg-id="A2.ru@SD" tvg-logo="https://i.imgur.com/NqHla2V.png",A2 (576p)
@@ -269,7 +269,7 @@ http://stream.mcquack.net/312/index.m3u8
 https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF: group-title="Rusa"-1 tvg-id="CurrentTimeTV.cz@SD" tvg-logo="https://i.imgur.com/hKo8ApU.png",Current Time TV (1080p)
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-#EXTINF: group-title="Rusa"-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png",Da Vinci (Russia) (576p)
+#EXTINF: group-title="Rusa"-1 tvg-id="DaVinci.ru@SD" tvg-logo="https://i.imgur.com/V8AUJP6.png",Da Vinci (576p)
 http://116.90.120.149:8000/play/a0s6/index.m3u8
 #EXTINF: group-title="Rusa"-1 tvg-id="Dacha.ua@SD" tvg-logo="https://i.imgur.com/xq6p9BZ.png",Dacha (1080p)
 https://dash2.antik.sk/live/test_dacha_tv_atktv/playlist.m3u8
@@ -1443,14 +1443,6 @@ https://live77cdn2.antenaplay.ro/live2_fast/ch4/stream.m3u8
 https://vip-acasatv.online:25463/lrZuGxAuP3/6782859900/5928.m3u8
 #EXTINF: group-title="Romana"-1 tvg-id="Digi24.ro@SD" tvg-logo="https://i.imgur.com/qmRnD0M.png",Digi 24 (720p)
 https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
-#EXTINF: group-title="Romana"-1 tvg-id="DigiSport1.ro@HD" tvg-logo="https://i.imgur.com/5zMxDYq.png",Digi Sport 1 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=3174529991
-#EXTINF: group-title="Romana"-1 tvg-id="DigiSport2.ro@HD" tvg-logo="https://i.imgur.com/KWDUi3v.png",Digi Sport 2 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=867728420
-#EXTINF: group-title="Romana"-1 tvg-id="DigiSport3.ro@HD" tvg-logo="https://i.imgur.com/T1ci5UK.png",Digi Sport 3 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=4279401658
-#EXTINF: group-title="Romana"-1 tvg-id="DigiSport4.ro@SD" tvg-logo="https://i.imgur.com/Knj9I6f.png",Digi Sport 4
-http://sultanios.alwaysdata.net/vavo.php?ID=4124538275
 #EXTINF: group-title="Romana"-1 tvg-id="DiscoMix.ro@SD" tvg-logo="https://www.discomix.ro/wp-content/uploads/2023/03/Disco-Mix-1.png",Disco Mix (576i) [Geo-blocked]
 https://vs2129.vcdn.biz/781da550c3e711e56f17de33318050f9_megogo/live/hls/b/700_2490_4000/u_sid/0/o/183395021/rsid/39f910cb-e9d4-46a0-b2fb-a12bfc104baf/u_uid/2260062697/u_vod/0/u_device/cms_html5/u_devicekey/_site/lip/81.196.174.41*asn/u_srvc/109126/u_did/web_c02d0d195494991ada83b5ae2a2f87d6041c11b1b8f79fc86ae5b7b557894fa0/type.live/playlist.m3u8
 #EXTINF: group-title="Romana"-1 tvg-id="DiscoveryChannel.ro@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",Discovery Channel (Romania)
@@ -1461,8 +1453,6 @@ http://92.180.26.103/stream/28/index.m3u8
 https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
 #EXTINF: group-title="Romana"-1 tvg-id="DottoTV.ro@SD" tvg-logo="https://i.imgur.com/pfs882Z.png",Dotto TV (1080p)
 https://live.dottotv.ro/index.m3u8
-#EXTINF: group-title="Romana"-1 tvg-id="E.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/E%21_2022_%28Scarlet%29.svg/revision/latest?cb=20260709150437",E! (Romania)
-http://sultanios.alwaysdata.net/vavo.php?ID=3166915380
 #EXTINF: group-title="Romana"-1 tvg-id="EbS.be@SD" tvg-logo="https://i.imgur.com/DIIRPNN.png",EbS (1080p)
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 #EXTINF: group-title="Romana"-1 tvg-id="EbSPlus.be@SD" tvg-logo="https://i.imgur.com/7V012zQ.png",EbS+ (1080p)
@@ -1592,12 +1582,11 @@ https://live77cdn2.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 https://hls01ns.antenaplay.ro/hls/orizont-tv-sd/index.m3u8
 #EXTINF: group-title="Romana"-1 tvg-id="PrimaNews.ro@SD" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Prima_News_logo_2022.svg/1280px-Prima_News_logo_2022.svg.png",Prima News
 https://hls02ns.antenaplay.ro/hls/prima-news-hd/index.m3u8
+#EXTINF: group-title="Romana"-1 tvg-id="PrimaSport1.ro@HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/5/52/Prima_Sport_1_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205121905" http-referrer="https://rundle.tv/",Prima Sport 1 HD
+#EXTVLCOPT:http-referrer=https://rundle.tv/
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk1%2Fusergenrx0cir27aq-got.htm
 #EXTINF: group-title="Romana"-1 tvg-id="PrimaSport2.ro@HD" tvg-logo="https://i.imgur.com/hROcepe.png",Prima Sport 2 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=3381201599
-#EXTINF: group-title="Romana"-1 tvg-id="PrimaSport3.ro@HD" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/9a/Prima_Sport_3_%282022-.n.v.%29.png/revision/latest/scale-to-width-down/1000?cb=20240205122802",Prima Sport 3 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=2762629881
-#EXTINF: group-title="Romana"-1 tvg-id="PrimaSport4.ro@HD" tvg-logo="https://i.imgur.com/lqaIIhc.png",Prima Sport 4 HD
-http://sultanios.alwaysdata.net/vavo.php?ID=3194919143
+https://rundle.tv/proxy5.php?src=https%3A%2F%2Firon1.xn--x2rw19a.space%2Fpuk2%2Fusergenrnd0clv03fyt-got.htm
 #EXTINF: group-title="Romana"-1 tvg-id="PrimaSportPPV1.ro@SD" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/b05ce5d64523401d0fc3225c5b629019.png",Prima Sport PPV 1
 https://rundle.tv/proxy5.php?src=https%3A%2F%2Fpulse1.sanseny001.shop%2Fpuki1%2Fusergendx6kal0r2bsm-got.htm
 #EXTINF: group-title="Romana"-1 tvg-id="PrimaSportPPV2.ro@SD" tvg-logo="https://www.primaplay.ro/uploads/thumb/publisher/a8c4cd410038eab9d207fd2f15d4d1ce.png",Prima Sport PPV 2
