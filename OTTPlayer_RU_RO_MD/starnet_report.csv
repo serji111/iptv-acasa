@@ -74,9 +74,9 @@ Filme,Cinema,2,FOUND_UNTESTED
 Filme,Black,3,FOUND_UNTESTED
 Filme,Red,3,FOUND_UNTESTED
 Filme,Sci-Fi,3,FOUND_UNTESTED
-Documentare,Discovery Channel,15,FOUND_UNTESTED
+Documentare,Discovery Channel,14,FOUND_UNTESTED
 Documentare,Animal Planet,8,FOUND_UNTESTED
-Documentare,Investigation Discovery,7,FOUND_UNTESTED
+Documentare,Investigation Discovery,6,FOUND_UNTESTED
 Documentare,viju Explore,1,FOUND_UNTESTED
 Documentare,viju History,1,FOUND_UNTESTED
 Documentare,viju Nature,1,FOUND_UNTESTED
@@ -97,7 +97,7 @@ Sport,Realitatea Sportiva,1,FOUND_UNTESTED
 Sport,WE SPORT TV,0,NOT_FOUND
 Muzica,MTV 80s,0,NOT_FOUND
 Muzica,MTV 90s,0,NOT_FOUND
-Muzica,MTV Live,1,FOUND_UNTESTED
+Muzica,MTV Live,0,NOT_FOUND
 Muzica,Europa Plus TV,2,FOUND_UNTESTED
 Muzica,TNT Music,0,NOT_FOUND
 Muzica,Shanson TV,1,FOUND_UNTESTED
@@ -110,7 +110,7 @@ Muzica,UTV,5,FOUND_UNTESTED
 Muzica,HIT FM TV,0,NOT_FOUND
 Muzica,Party Mix,1,FOUND_UNTESTED
 Muzica,Disco Mix,1,FOUND_UNTESTED
-Copii,Cartoon Network,22,FOUND_UNTESTED
-Copii,Nickelodeon,32,FOUND_UNTESTED
+Copii,Cartoon Network,21,FOUND_UNTESTED
+Copii,Nickelodeon,33,FOUND_UNTESTED
 Copii,Mult,2,FOUND_UNTESTED
 Copii,Da Vinci Kids,0,NOT_FOUND
