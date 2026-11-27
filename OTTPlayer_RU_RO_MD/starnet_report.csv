@@ -48,14 +48,14 @@ Filme,FilmUA Drama,0,NOT_FOUND
 Filme,viju+ Serial,1,FOUND_UNTESTED
 Filme,BOLT,1,FOUND_UNTESTED
 Filme,Kino TV,2,FOUND_UNTESTED
-Filme,Comedy Central,18,FOUND_UNTESTED
+Filme,Comedy Central,19,FOUND_UNTESTED
 Filme,Indiya TV,0,NOT_FOUND
 Filme,Cinemaraton Moldova,0,NOT_FOUND
 Filme,Kinokomediya,0,NOT_FOUND
 Filme,Kinopremyera,1,FOUND_UNTESTED
 Filme,Rodnoe Kino,1,FOUND_UNTESTED
 Filme,Kinohit,1,FOUND_UNTESTED
-Filme,Kinomix,1,FOUND_UNTESTED
+Filme,Kinomix,2,FOUND_UNTESTED
 Filme,ACASA,1,FOUND_UNTESTED
 Filme,Acasa Gold,1,FOUND_UNTESTED
 Filme,Mosfilm,1,FOUND_UNTESTED
@@ -74,7 +74,7 @@ Filme,Cinema,2,FOUND_UNTESTED
 Filme,Black,2,FOUND_UNTESTED
 Filme,Red,3,FOUND_UNTESTED
 Filme,Sci-Fi,3,FOUND_UNTESTED
-Documentare,Discovery Channel,14,FOUND_UNTESTED
+Documentare,Discovery Channel,15,FOUND_UNTESTED
 Documentare,Animal Planet,8,FOUND_UNTESTED
 Documentare,Investigation Discovery,6,FOUND_UNTESTED
 Documentare,viju Explore,1,FOUND_UNTESTED
@@ -106,11 +106,11 @@ Muzica,Busuioc TV,0,NOT_FOUND
 Muzica,Taraf TV,1,FOUND_UNTESTED
 Muzica,Etno TV,1,FOUND_UNTESTED
 Muzica,Favorit TV,1,FOUND_UNTESTED
-Muzica,UTV,4,FOUND_UNTESTED
+Muzica,UTV,5,FOUND_UNTESTED
 Muzica,HIT FM TV,0,NOT_FOUND
 Muzica,Party Mix,1,FOUND_UNTESTED
 Muzica,Disco Mix,1,FOUND_UNTESTED
-Copii,Cartoon Network,21,FOUND_UNTESTED
-Copii,Nickelodeon,34,FOUND_UNTESTED
-Copii,Mult,2,FOUND_UNTESTED
+Copii,Cartoon Network,24,FOUND_UNTESTED
+Copii,Nickelodeon,35,FOUND_UNTESTED
+Copii,Mult,3,FOUND_UNTESTED
 Copii,Da Vinci Kids,0,NOT_FOUND
