@@ -97,7 +97,7 @@ Sport,Realitatea Sportiva,1,FOUND_UNTESTED
 Sport,WE SPORT TV,0,NOT_FOUND
 Muzica,MTV 80s,0,NOT_FOUND
 Muzica,MTV 90s,0,NOT_FOUND
-Muzica,MTV Live,0,NOT_FOUND
+Muzica,MTV Live,1,FOUND_UNTESTED
 Muzica,Europa Plus TV,2,FOUND_UNTESTED
 Muzica,TNT Music,0,NOT_FOUND
 Muzica,Shanson TV,1,FOUND_UNTESTED
@@ -111,6 +111,6 @@ Muzica,HIT FM TV,0,NOT_FOUND
 Muzica,Party Mix,1,FOUND_UNTESTED
 Muzica,Disco Mix,1,FOUND_UNTESTED
 Copii,Cartoon Network,24,FOUND_UNTESTED
-Copii,Nickelodeon,35,FOUND_UNTESTED
+Copii,Nickelodeon,34,FOUND_UNTESTED
 Copii,Mult,3,FOUND_UNTESTED
 Copii,Da Vinci Kids,0,NOT_FOUND
